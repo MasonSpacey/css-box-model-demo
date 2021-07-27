@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+h1 {
+    /* text-align: center; */
+    color: peru;
+    border: 4px red solid;
+    border-top: 4px purple dotted;
+    border-bottom: 4px blue dashed;
+
+    margin-right: 40px;
+}
